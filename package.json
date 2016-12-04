@@ -1,0 +1,18 @@
+{
+  "name": "h5-create",
+  "version": "1.0.0",
+  "description": "Quick create HTML5 template page",
+  "main": "index.js",
+  "bin":{
+  	"h5-create":"./bin/h5-create.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {    //项目资源库
+    "type": "git",
+    "url": "https://github.com/bitores/h5-create.git"
+  },
+  "author": "huangzhengjie",
+  "license": "ISC"
+}
