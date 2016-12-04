@@ -32,3 +32,11 @@
 		
 	</body>
 	</html>
+
+#### 发布 npm 包
+
+	1、npm adduser
+
+	2、npm publish .
+
+	3、如果出错，设置如下：npm config set registry http://registry.npmjs.org，再进行第2步
