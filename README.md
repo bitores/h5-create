@@ -2,6 +2,10 @@
 
 	快速创建 H5 模板页面
 
+#### 安装
+
+	>npm install -g h5-create
+
 #### 使用方法 
 
 	>h5-create [filename.html]
