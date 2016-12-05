@@ -1,10 +1,10 @@
 {
   "name": "h5-create",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Quick create HTML5 template page",
   "main": "index.js",
   "bin":{
-  	"h5-create":"./bin/h5-create.js"
+  	"h5-create":"./bin/h5-create"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
